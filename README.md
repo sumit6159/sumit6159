@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/90570005/158358691-16ee5c0c-8336-4cde-ba75-42b426afcabf.png)
+![image](https://thumbs.dreamstime.com/b/new-skills-knowledge-webinar-training-business-internet-technology-concept-new-skills-knowledge-webinar-training-business-internet-121274023.jpg)
 
 
 
