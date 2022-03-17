@@ -29,6 +29,13 @@
 
 [![Sumit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumit6159&theme=react-dark)](https://github.com/sumit6159/github-readme-activity-graph)
 
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/sumit-kaushik-143b57230/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>  <a href = "mailto:kaushiksumit427@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+</p>
+
+
+
 
 
 
