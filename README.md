@@ -10,7 +10,7 @@
 - 🔭 currently i'm a student at ***Masai School***..
 - 🌱 I’m currently learning ***DSA*** and ***MERN Stack***.
 - 👯 I’m looking to ***collaborate*** on ***OpenSource Projects***
-- *  check my project and Portfolio [Sumit](https://github.com/sumit6159)
+- *  check my project and Portfolio [Sumit](https://portfolio-kaushiksumit427-gmailcom.vercel.app/)
 - 💬 Ask me about anything i'm happy to help.
 - 📫 How to reach me: kaushiksumit427@gmail.com
 - ⚡ Fun fact: I play cricket and watch movies.
